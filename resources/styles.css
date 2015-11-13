@@ -1,0 +1,52 @@
+.tableContainer {
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    border: 5px solid #333;
+
+}
+.thead {
+    text-align: center;
+    background: #353;
+    color: #FFF;
+}
+table {
+    width: 100%;
+    background: white;
+}
+table td {
+    padding: 5px;
+    font-family: Helvetica;
+    font-weight: 100;
+}
+
+.tsubmit {
+
+    padding: 5px;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s;
+    border: 3px solid #333;
+    background: transparent;
+}
+.tsubmit:hover {
+    background: #333;
+    color: #eee;
+}
+.tcenter {
+    text-align: center;
+
+}
+
+select {
+    padding: 3px;
+    font-family: 'Segoe UI', Helvetica, sans-serif;
+    border: 2px solid #333;
+}
+
+.tctrl {
+    width: 250px;
+}
+.response {
+    font-style: italic;
+}
